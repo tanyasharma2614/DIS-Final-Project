@@ -7,7 +7,7 @@ To achieve this, we have coded to simulate a network from scratch, implemented 8
 Instructions:
 
 git clone https://github.com/tanyasharma2614/DIS-Final-Project.git  
-cd FinalProject  
+cd DIS-Final-Project  
 python3 main.py  
 
 Additional Information:
